@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-11T09:54:19.822Z'
-dateModified: '2016-03-11T09:54:03.953Z'
+datePublished: '2016-03-11T09:56:00.234Z'
+dateModified: '2016-03-11T09:54:27.229Z'
 title: "This is a test. Yes.\_"
 author: []
+sourcePath: _posts/2016-03-11-this-is-a-test-yes.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-this-is-a-test-yes.md
-published: true
 url: this-is-a-test-yes/index.html
 _type: Article
 
