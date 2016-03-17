@@ -1,7 +1,7 @@
 name: Raychi
 favicon: null
-layout_spectrum: 0.10286934021860361
-typography_spectrum: 0.7139470926485956
+layout_spectrum: 0.07075
+typography_spectrum: 0.60963
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.4292692351154983
-  lightness: 0.758801433024928
+    - '#ffffff'
+    - '#e1db9d'
+    - '#72705f'
+    - '#a9a356'
+    - '#010101'
+  brandStrength: 0.6875
+  lightness: 0.75
   saturation: 0.08489447878673673
-  rhythmicContrast: 0.6788827714044601
+  rhythmicContrast: 0.75
 purpose: []
