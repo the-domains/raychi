@@ -1,34 +1,32 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-03-17T13:36:56.286Z'
-dateModified: '2016-03-17T13:36:56.032Z'
-title: Milwaukee Public Library - East Branch Public Art Commission
-author: []
+datePublished: '2016-08-31T16:12:15.545Z'
 sourcePath: _posts/2016-03-11-this-is-a-test-yes.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-31T16:12:15.109Z'
+title: 'Commission: 12.15.14'
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
+starred: false
 url: this-is-a-test-yes/index.html
 _type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3140ec22830883f65dbd9d5ea87acb57508d65d.jpg)
 
-# Milwaukee Public Library - East Branch Public Art Commission
-
 # Commission: 12.15.14
 
-Project team:
+# Milwaukee Public Library - East Branch Public Art Commission
+
+## Project team:
 
 Ray Chi - artist
 
@@ -40,7 +38,8 @@ Aaron Malinowski, [V-Metals][0]: Metal fabrication
 
 Concrete fabrication team: Brian Holoubek, Willie Fields, Keith Hayes, Matt
 
-Studio assistance: Mason Stich, Ian Mcgibbon, Michelle, ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97d88ac2-7300-43d6-b145-426e7eae4d23.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a0ddaff-b49d-40ee-94d5-f74bafcb0475.jpg)
+Studio assistance: Mason Stich, Ian Mcgibbon, Michelle,
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bedaa860e4cb9c4660c7f891a1b938d0136ec29f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/93c575f29535c7e7bd14bcf921141907a216d1a2.jpg)
 
 [0]: http://vmetalsfab.com/index.html
